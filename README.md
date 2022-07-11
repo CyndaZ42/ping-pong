@@ -1,6 +1,6 @@
-# _{C# Application Name}_
+# _C# Ping Pong_
 
-#### By _**Zac Waggoner**_
+#### By _**Zac Waggoner, Alex McKnight, Tyler Emmerson**_
 
 #### _{Brief description of application}_
 
