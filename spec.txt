@@ -1,0 +1,34 @@
+- user enters a number
+- all numbers diviible by 3 = "ping"
+- all numbers divisible by 5 = "pong"
+- all numbers divisible by 3 && 5 = "ping-pong"
+- program will return numbers + replacement strings up to the user selected number
+
+
+for (int year = birthYear; year <= 2020; year ++)
+    {
+      if (year % 4 == 0)
+      {
+        Console.WriteLine(year);
+      }
+    }
+  }
+}
+if (number % 5 == 0 && number % 3 == 0) 
+{
+  Console.WriteLine("ping-pong")
+}
+
+else if (number % 3 == 0)
+{
+  Console.WriteLine("ping");
+}
+
+else if (number % 5 == 0)
+{
+  Console.WriteLine("pong");
+}
+
+
+
+https://www.learnhowtoprogram.com/c-and-net/branching-and-looping/for-loops
